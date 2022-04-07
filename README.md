@@ -1,9 +1,9 @@
 # W
-Room for students
+Room for me
 import turtle
 import random
 
-w = 500
+w = 600
 h = 500
 food_size = 10
 delay = 100 
